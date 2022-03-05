@@ -3,7 +3,7 @@ package jsonpath_test
 import (
 	"testing"
 
-	"github.com/PaesslerAG/jsonpath"
+	"github.com/machship-mm/jsonpath"
 )
 
 func TestWildcardsExtension(t *testing.T) {

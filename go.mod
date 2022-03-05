@@ -1,3 +1,3 @@
-module github.com/PaesslerAG/jsonpath
+module github.com/machship-mm/jsonpath
 
-require github.com/PaesslerAG/gval v1
+require github.com/machship-mm/gval v1.1.5

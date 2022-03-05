@@ -2,7 +2,7 @@
 
 # Script that runs tests, code coverage, and benchmarks all at once.
 
-JSONPath_PATH=$HOME/gopath/src/github.com/PaesslerAG/jsonpath
+JSONPath_PATH=$HOME/gopath/src/github.com/machship-mm/jsonpath
 
 # run the actual tests.
 cd "${JSONPath_PATH}"

@@ -6,7 +6,7 @@ import (
 	"math"
 	"text/scanner"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/machship-mm/gval"
 )
 
 type parser struct {
